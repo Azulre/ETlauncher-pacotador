@@ -30,7 +30,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="xarlreiz ">
-        <img src="https://ibb.co/vxB7KvD9" width="100px;" alt="O grande xarlreiz "/><br>
+        <img src="https://files.catbox.moe/o8tzr9.webp" width="100px;" alt="O grande xarlreiz "/><br>
         <sub>
           <b>Xarlreiz </b>
         </sub>
@@ -46,7 +46,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="Azulre">
       <a href="#" title="defina o título do link">
-        <img src="https://ibb.co/8n2rNvr3" width="100px;" alt="Azulre, o criador da ideia"/><br>
+        <img src="https://files.catbox.moe/dpvqpn.webp" width="100px;" alt="Azulre, o criador da ideia"/><br>
         <sub>
           <b>Azulre</b>
           </sub>
@@ -54,7 +54,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="1155 do ET">
       <a href="#" title="defina o título do link">
-        <img src="https://ibb.co/fd1JpHwd" width="100px;" alt="o cara do youtube"/><br>
+        <img src="hhttps://files.catbox.moe/529fqj.webp" width="100px;" alt="o cara do youtube"/><br>
         <sub>
           <b>1155 do ET</b>
         </sub>
