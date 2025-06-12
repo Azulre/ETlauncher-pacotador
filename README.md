@@ -33,7 +33,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="Azulre">
-      <a href="#" title="defina o título do link">
+      <a href="#" title="Azulre">
         <img src="https://files.catbox.moe/dpvqpn.webp" width="100px;" alt="Azulre, o criador da ideia"/><br>
         <sub>
           <b>Azulre</b>
@@ -41,8 +41,16 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="1155 do ET">
-      <a href="#" title="defina o título do link">
+      <a href="#" title="1155 do ET">
         <img src="https://files.catbox.moe/529fqj.webp" width="100px;" alt="o cara do youtube"/><br>
+        <sub>
+          <b>1155 do ET</b>
+        </sub>
+         </a>
+    </td>
+    <td align="Savio31">
+      <a href="#" title="savio31">
+        <img src="https://files.catbox.moe/xn134h.webp" width="100px;" alt="Escritor do Pacotador"/><br>
         <sub>
           <b>1155 do ET</b>
         </sub>
