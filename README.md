@@ -1,6 +1,6 @@
 # ET Launcher & Pacotador
 
-> É uma junção de um launcher de minecraft com o pacotador do Xarlreiz.
+> É uma junção de um launcher de minecraft com o pacotador do Xarlreiz & savio31
 
 ## 💻 Pré-requisitos
 
