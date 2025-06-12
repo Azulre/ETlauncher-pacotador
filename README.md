@@ -6,7 +6,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- primeiro, execute no terminal `pip install PyQt5 pillow minecraft-launcher-lib` para as dependencias.  
+- Primeiro, execute no terminal `pip install PyQt5 pillow minecraft-launcher-lib` para as dependencias.  
 - Uma máquina `Windows / Linux / Mac`, E python instalado.
 - Baixe o `bg.png` caso pegue o standalone em Python.
 
