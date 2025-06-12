@@ -1,28 +1,16 @@
 # ET Launcher & Pacotador
 
-<img src="imagem.png" alt="Exemplo imagem">
-
-> É uma junção de um launcher de minecraft com o pacotador do xarlreiz
-
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+> É uma junção de um launcher de minecraft com o pacotador do Xarlreiz.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- <pip install PyQt5 pillow minecraft-launcher-lib>
-- Você tem uma máquina `<Windows / Linux / Mac>`. E python instalado
-- Baixado o <bg.png> caso pegue o standalone em Python.
+- primeiro, execute no terminal `pip install PyQt5 pillow minecraft-launcher-lib` para as dependencias  
+- Você tem uma máquina `Windows / Linux / Mac`. E python instalado
+- Baixado o `bg.png` caso pegue o standalone em Python.
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para ET Launcher & Pacotador
 
 Para contribuir com ET Launcher & Pacotador, siga estas etapas:
 
