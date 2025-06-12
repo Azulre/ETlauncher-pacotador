@@ -52,7 +52,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#" title="savio31">
         <img src="https://files.catbox.moe/xn134h.webp" width="100px;" alt="Escritor do Pacotador"/><br>
         <sub>
-          <b>1155 do ET</b>
+          <b>Savio31</b>
         </sub>
       </a>
     </td>
