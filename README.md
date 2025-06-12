@@ -54,7 +54,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="1155 do ET">
       <a href="#" title="defina o título do link">
-        <img src="hhttps://files.catbox.moe/529fqj.webp" width="100px;" alt="o cara do youtube"/><br>
+        <img src="https://files.catbox.moe/529fqj.webp" width="100px;" alt="o cara do youtube"/><br>
         <sub>
           <b>1155 do ET</b>
         </sub>
